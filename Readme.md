@@ -1,6 +1,6 @@
 1. Run Airflow using docker-compose up
 2. Create Plugins:
-    Finnhub loader
+    \tFinnhub loader
     MongoDB loader
     Sentiment Analysis
     Postgres loader
